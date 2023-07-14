@@ -258,7 +258,7 @@ MonoBehaviour:
   target: {fileID: 660989014}
   hookSpeed: 10
   orbitSpeed: 50
-  maxHookLength: 20
+  maxHookLength: 25
   lineRenderer: {fileID: 26647352}
 --- !u!136 &26647354
 CapsuleCollider:
@@ -332,7 +332,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 26647351}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -183.43213, y: 153.96326, z: 256.73114}
+  m_LocalPosition: {x: -183.43213, y: 153.96326, z: 251.88}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
